@@ -1,0 +1,5 @@
+C:\Users\Ravi Thakkar\Desktop\New folder (5)\Webapi\obj\Debug\netcoreapp3.0\staticwebassets\Webapi2.StaticWebAssets.Manifest.cache
+C:\Users\Ravi Thakkar\Desktop\New folder (5)\Webapi\obj\Debug\netcoreapp3.0\staticwebassets\Webapi2.StaticWebAssets.xml
+C:\Users\Ravi Thakkar\Desktop\New folder (5)\Webapi\obj\Debug\netcoreapp3.0\Webapi2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ravi Thakkar\Desktop\New folder (5)\Webapi\obj\Debug\netcoreapp3.0\Webapi2.AssemblyInfoInputs.cache
+C:\Users\Ravi Thakkar\Desktop\New folder (5)\Webapi\obj\Debug\netcoreapp3.0\Webapi2.AssemblyInfo.cs
